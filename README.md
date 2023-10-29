@@ -3,7 +3,7 @@
 <html>
   <div class="container">
     <div class="header">
-      <title>My home</title>
+      <h1>My home</h1>
     </div>
     <div class="content">
       <!--main content is here-->
