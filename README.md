@@ -1,7 +1,7 @@
 # html
 <!DOCTYPE html>
 <html>
-  <body>
+  
   <div class="container">
     <div class="header">
       <h1>My home</h1>
@@ -21,5 +21,5 @@
       <p>&copy; Abdullakim</p>
     </div>
   </div>
-  </body>
+  
 </html>
